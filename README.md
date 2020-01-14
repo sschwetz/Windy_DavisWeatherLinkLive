@@ -18,7 +18,7 @@ windy_api_key = "WINDY.COM_API_KEY"
 This is the size of your bucket in cm. If you have a 2mm bucket it will be 0.2 imperial buckets will need to be multiplied by 2.54
 
 #### local_address
-This is the local address for your weatherlink. You will need to look up it's mac address (the DID on the bottom of the unit) on the arp table on your router. 
+This is the local address for your Weatherlink Live. You will need to look up it's mac address (the DID on the bottom of the unit) on the arp table on your router. 
 
 #### windy_api_key
 this is the API key from https://stations.windy.com/stations
